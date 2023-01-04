@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Carlos Soza cfsoza81@gmail.com @coza17
 
 # THANKS
 
